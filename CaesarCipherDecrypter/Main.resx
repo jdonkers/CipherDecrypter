@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Input.Text" xml:space="preserve">
+    <value>UONN, HBSXLO, RT POXTF FXD NGLLF FBO XTU KGRQ YFCSNM ORQFQOR TY QAO
+EGTXFHFBQOR. EGQ S UFBX MTG, SY MTG DTX'Q QONN CO QAFQ QASR COFXR UFB,
+SY MTG RQSNN QBM QT DOYOXD QAO SXYFCSOR FXD ATBBTBR HOBHOQBFQOD EM QAFQ
+FXQSLABSRQ--S BOFNNM EONSOVO AO SR FXQSLABSRQ--S USNN AFVO XTQASXP CTBO
+QT DT USQA MTG FXD MTG FBO XT NTXPOB CM YBSOXD, XT NTXPOB CM 'YFSQAYGN
+RNFVO,' FR MTG LFNN MTGBRONY! EGQ ATU DT MTG DT? S ROO S AFVO YBSPAQOXOD
+MTG--RSQ DTUX FXD QONN CO FNN QAO XOUR."
+
+SQ UFR SX KGNM, 1805, FXD QAO RHOFWOB UFR QAO UONN-WXTUX FXXF HFVNTVXF
+RLAOBOB, CFSD TY ATXTB FXD YFVTBSQO TY QAO OCHBORR CFBMF YODTBTVXF. USQA
+QAORO UTBDR RAO PBOOQOD HBSXLO VFRSNS WGBFPSX, F CFX TY ASPA BFXW FXD
+SCHTBQFXLO, UAT UFR QAO YSBRQ QT FBBSVO FQ AOB BOLOHQSTX. FXXF HFVNTVXF
+AFD AFD F LTGPA YTB RTCO DFMR. RAO UFR, FR RAO RFSD, RGYYOBSXP YBTC NF
+PBSHHO; PBSHHO EOSXP QAOX F XOU UTBD SX RQ. HOQOBREGBP, GROD TXNM EM QAO
+ONSQO.
+
+FNN AOB SXVSQFQSTXR USQATGQ OILOHQSTX, UBSQQOX SX YBOXLA, FXD DONSVOBOD
+EM F RLFBNOQ-NSVOBSOD YTTQCFX QAFQ CTBXSXP, BFX FR YTNNTUR:
+
+"SY MTG AFVO XTQASXP EOQQOB QT DT, LTGXQ (TB HBSXLO), FXD SY QAO
+HBTRHOLQ TY RHOXDSXP FX OVOXSXP USQA F HTTB SXVFNSD SR XTQ QTT QOBBSENO,
+S RAFNN EO VOBM LAFBCOD QT ROO MTG QTXSPAQ EOQUOOX 7 FXD 10--FXXOQQO
+RLAOBOB."
+
+"AOFVOXR! UAFQ F VSBGNOXQ FQQFLW!" BOHNSOD QAO HBSXLO, XTQ SX QAO NOFRQ
+DSRLTXLOBQOD EM QASR BOLOHQSTX. AO AFD KGRQ OXQOBOD, UOFBSXP FX
+OCEBTSDOBOD LTGBQ GXSYTBC, WXOO EBOOLAOR, FXD RATOR, FXD AFD RQFBR TX
+ASR EBOFRQ FXD F ROBOXO OIHBORRSTX TX ASR YNFQ YFLO. AO RHTWO SX QAFQ
+BOYSXOD YBOXLA SX UASLA TGB PBFXDYFQAOBR XTQ TXNM RHTWO EGQ QATGPAQ, FXD
+USQA QAO POXQNO, HFQBTXSJSXP SXQTXFQSTX XFQGBFN QT F CFX TY SCHTBQFXLO
+UAT AFD PBTUX TND SX RTLSOQM FXD FQ LTGBQ. AO UOXQ GH QT FXXF HFVNTVXF,
+WSRROD AOB AFXD, HBOROXQSXP QT AOB ASR EFND, RLOXQOD, FXD RASXSXP AOFD,
+FXD LTCHNFLOXQNM ROFQOD ASCRONY TX QAO RTYF.
+
+"YSBRQ TY FNN, DOFB YBSOXD, QONN CO ATU MTG FBO. ROQ MTGB YBSOXD'R CSXD
+FQ BORQ," RFSD AO USQATGQ FNQOBSXP ASR QTXO, EOXOFQA QAO HTNSQOXORR FXD
+FYYOLQOD RMCHFQAM TY UASLA SXDSYYOBOXLO FXD OVOX SBTXM LTGND EO
+DSRLOBXOD.
+
+"LFX TXO EO UONN UASNO RGYYOBSXP CTBFNNM? LFX TXO EO LFNC SX QSCOR NSWO
+QAORO SY TXO AFR FXM YOONSXP?" RFSD FXXF HFVNTVXF. "MTG FBO RQFMSXP QAO
+UATNO OVOXSXP, S ATHO?"
+
+"FXD QAO YOQO FQ QAO OXPNSRA FCEFRRFDTB'R? QTDFM SR UODXORDFM. S CGRQ
+HGQ SX FX FHHOFBFXLO QAOBO," RFSD QAO HBSXLO. "CM DFGPAQOB SR LTCSXP YTB
+CO QT QFWO CO QAOBO."
+
+"S QATGPAQ QTDFM'R YOQO AFD EOOX LFXLONOD. S LTXYORR FNN QAORO
+YORQSVSQSOR FXD YSBOUTBWR FBO EOLTCSXP UOFBSRTCO."
+
+"SY QAOM AFD WXTUX QAFQ MTG USRAOD SQ, QAO OXQOBQFSXCOXQ UTGND AFVO EOOX
+HGQ TYY," RFSD QAO HBSXLO, UAT, NSWO F UTGXD-GH LNTLW, EM YTBLO TY AFESQ
+RFSD QASXPR AO DSD XTQ OVOX USRA QT EO EONSOVOD.
+
+"DTX'Q QOFRO! UONN, FXD UAFQ AFR EOOX DOLSDOD FETGQ XTVTRSNQROV'R
+DSRHFQLA? MTG WXTU OVOBMQASXP."
+
+"UAFQ LFX TXO RFM FETGQ SQ?" BOHNSOD QAO HBSXLO SX F LTND, NSRQNORR
+QTXO. "UAFQ AFR EOOX DOLSDOD? QAOM AFVO DOLSDOD QAFQ EGTXFHFBQO AFR
+EGBXQ ASR ETFQR, FXD S EONSOVO QAFQ UO FBO BOFDM QT EGBX TGBR."
+
+HBSXLO VFRSNS FNUFMR RHTWO NFXPGSDNM, NSWO FX FLQTB BOHOFQSXP F RQFNO
+HFBQ. FXXF HFVNTVXF RLAOBOB TX QAO LTXQBFBM, DORHSQO AOB YTBQM MOFBR,
+TVOBYNTUOD USQA FXSCFQSTX FXD SCHGNRSVOXORR. QT EO FX OXQAGRSFRQ AFD
+EOLTCO AOB RTLSFN VTLFQSTX FXD, RTCOQSCOR OVOX UAOX RAO DSD XTQ YOON
+NSWO SQ, RAO EOLFCO OXQAGRSFRQSL SX TBDOB XTQ QT DSRFHHTSXQ QAO
+OIHOLQFQSTXR TY QATRO UAT WXOU AOB. QAO RGEDGOD RCSNO UASLA, QATGPA SQ
+DSD XTQ RGSQ AOB YFDOD YOFQGBOR, FNUFMR HNFMOD BTGXD AOB NSHR OIHBORROD,
+FR SX F RHTSNOD LASND, F LTXQSXGFN LTXRLSTGRXORR TY AOB LAFBCSXP DOYOLQ,
+UASLA RAO XOSQAOB USRAOD, XTB LTGND, XTB LTXRSDOBOD SQ XOLORRFBM, QT
+LTBBOLQ.
+
+SX QAO CSDRQ TY F LTXVOBRFQSTX TX HTNSQSLFN CFQQOBR FXXF HFVNTVXF EGBRQ
+TGQ:
+
+"TA, DTX'Q RHOFW QT CO TY FGRQBSF. HOBAFHR S DTX'Q GXDOBRQFXD QASXPR,
+EGQ FGRQBSF XOVOB AFR USRAOD, FXD DTOR XTQ USRA, YTB UFB. RAO SR
+EOQBFMSXP GR! BGRRSF FNTXO CGRQ RFVO OGBTHO. TGB PBFLSTGR RTVOBOSPX
+BOLTPXSJOR ASR ASPA VTLFQSTX FXD USNN EO QBGO QT SQ. QAFQ SR QAO TXO
+QASXP S AFVO YFSQA SX! TGB PTTD FXD UTXDOBYGN RTVOBOSPX AFR QT HOBYTBC
+QAO XTENORQ BTNO TX OFBQA, FXD AO SR RT VSBQGTGR FXD XTENO QAFQ PTD USNN
+XTQ YTBRFWO ASC. AO USNN YGNYSNN ASR VTLFQSTX FXD LBGRA QAO AMDBF TY
+BOVTNGQSTX, UASLA AFR EOLTCO CTBO QOBBSENO QAFX OVOB SX QAO HOBRTX TY
+QASR CGBDOBOB FXD VSNNFSX! UO FNTXO CGRQ FVOXPO QAO ENTTD TY QAO KGRQ
+TXO.... UATC, S FRW MTG, LFX UO BONM TX?... OXPNFXD USQA AOB LTCCOBLSFN
+RHSBSQ USNN XTQ FXD LFXXTQ GXDOBRQFXD QAO OCHOBTB FNOIFXDOB'R NTYQSXORR
+TY RTGN. RAO AFR BOYGROD QT OVFLGFQO CFNQF. RAO UFXQOD QT YSXD, FXD
+RQSNN ROOWR, RTCO ROLBOQ CTQSVO SX TGB FLQSTXR. UAFQ FXRUOB DSD
+XTVTRSNQROV POQ? XTXO. QAO OXPNSRA AFVO XTQ GXDOBRQTTD FXD LFXXTQ
+GXDOBRQFXD QAO RONY-FEXOPFQSTX TY TGB OCHOBTB UAT UFXQR XTQASXP YTB
+ASCRONY, EGQ TXNM DORSBOR QAO PTTD TY CFXWSXD. FXD UAFQ AFVO QAOM
+HBTCSROD? XTQASXP! FXD UAFQ NSQQNO QAOM AFVO HBTCSROD QAOM USNN XTQ
+HOBYTBC! HBGRRSF AFR FNUFMR DOLNFBOD QAFQ EGTXFHFBQO SR SXVSXLSENO, FXD
+QAFQ FNN OGBTHO SR HTUOBNORR EOYTBO ASC.... FXD S DTX'Q EONSOVO F UTBD
+QAFQ AFBDOXEGBP RFMR, TB AFGPUSQJ OSQAOB. QASR YFCTGR HBGRRSFX
+XOGQBFNSQM SR KGRQ F QBFH. S AFVO YFSQA TXNM SX PTD FXD QAO NTYQM
+DORQSXM TY TGB FDTBOD CTXFBLA. AO USNN RFVO OGBTHO!"</value>
+  </data>
+</root>
